@@ -17,8 +17,9 @@ I'm Vicente, and I am a developer from Spain. I like coding, [music](https://ope
 
 - 📫 Contact me, **me@vicente015.dev**.
 
+<!--- Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicente015&title_color=FFA759&icon_color=FFD580&bg_color=1F2430&text_color=FFCC66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--- GitHub Stats
 [![Vicente github stats](https://github-readme-stats.vercel.app/api?username=Vicente015&hide=["prs","issues"]&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=7289DA)](https://vicente015.dev/)
 -->
