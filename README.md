@@ -10,7 +10,7 @@ I'm Vicente, and I am a developer from Spain. I like coding, [music](https://ope
 - 🌱 I’m currently learning **Typescript**.
 
 - 🎏 I plan to learn in the future:
-  * React
+  * MERN Stack
   * Python
   * Go
   * a lot more
