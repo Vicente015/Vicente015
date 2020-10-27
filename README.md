@@ -1,7 +1,7 @@
 ![](https://i.imgur.com/y3k4PK8.gif)
 # Hey, :wave:!
 
-![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/287574458963722240?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/287574458963722240?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/287574458963722240) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/287574458963722240)
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/287574458963722240?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/287574458963722240?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/287574458963722240) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/287574458963722240) ![Profile Views](https://komarev.com/ghpvc/?username=Vicente015)
 
 I'm Vicente, and I am a developer from Spain. I like coding, [music](https://open.spotify.com/user/fck71oml0kxua7pwp11hut5d0) and drink tea :tea:.
 
