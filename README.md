@@ -6,7 +6,7 @@
 
 I'm Vicente, and I am a developer from Spain. I like coding, [music](https://open.spotify.com/user/fck71oml0kxua7pwp11hut5d0) and drink tea :tea:.
 
-- 🔭 I’m currently working on [D-Safe](https://discordsafe.com) and others side projects like [Maldito2020](https://maldito2020.com), my [personal website](https://github.com/Vicente015/vicent015.dev) and private stuff *:eyes:*.
+- 🔭 I’m currently working on [D-Safe](https://discordsafe.com) and others side projects like [Maldito2020](https://maldito2020.com), my [personal website](https://github.com/Vicente015/vicente015.dev) and private stuff *:eyes:*.
 
 - 🌱 I’m currently learning **Typescript**.
 
