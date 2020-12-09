@@ -4,9 +4,9 @@
 
 ![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/287574458963722240?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/287574458963722240?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/287574458963722240) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/287574458963722240) ![Profile Views](https://komarev.com/ghpvc/?username=Vicente015)
 
-I'm Vicente, and I am a developer from Spain. I like coding, [music](https://open.spotify.com/user/fck71oml0kxua7pwp11hut5d0) and drink tea :tea:.
+I'm Vicente, and I am a developer from Spain. I like coding, [music](https://open.spotify.com/user/fck71oml0kxua7pwp11hut5d0) and drinking tea :tea:.
 
-- 🔭 I’m currently working on [D-Safe](https://discordsafe.com) and others side projects like [Maldito2020](https://maldito2020.com), my [personal website](https://github.com/Vicente015/vicente015.dev) and private stuff *:eyes:*.
+- 🔭 I’m currently working on [D-Safe](https://discordsafe.com) and others side projects like [Maldito2020](https://maldito2020.com), my [personal website](https://github.com/Vicente015/vicente015.dev) and cool stuff *:eyes:*.
 
 - 🌱 I’m currently learning **Typescript**.
 
