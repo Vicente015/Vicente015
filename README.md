@@ -18,6 +18,8 @@ I'm Vicente, and I am a developer from Spain. I like coding, listen to [music](h
 
 - 📫 Contact me, **me@vicente015.dev**.
 
+![Metrics](https://github.com/Vicente015/Vicente015/blob/master/github-metrics.svg)
+
 <details>
 <summary>Random shit</summary>
 <br>
