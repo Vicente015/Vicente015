@@ -1034,8 +1034,8 @@
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
                 
-                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
-                  <text x="60" y="60" dominant-baseline="central">92</text>
+                  <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                  <text x="60" y="60" dominant-baseline="central">100</text>
                 
               </svg>
               <span class="title">Performance</span>
@@ -1204,8 +1204,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value"></span>
+              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
               15
             </div>
           
@@ -1298,8 +1298,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">6</span>
-                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">4</span>
+                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Fri
               </div>
             
@@ -2377,7 +2377,7 @@
                   
                   <div class="name">
                     <span>sirredbeard/Awesome-WSL</span>
-                    <span>starred 22 hours ago</span>
+                    <span>starred 23 hours ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2419,7 +2419,7 @@
                   
                   <div class="name">
                     <span>isaacs/node-glob</span>
-                    <span>starred 24 hours ago</span>
+                    <span>starred 1 day ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2466,7 +2466,7 @@
                   
                   <div class="name">
                     <span>chjj/blessed</span>
-                    <span>starred 24 hours ago</span>
+                    <span>starred 1 day ago</span>
                   </div>
                 </div>
                 <div class="field description">
@@ -2528,7 +2528,7 @@
           
             <span>These metrics include private contributions, timezone Europe/Madrid</span>
           
-          <span>Last updated Fri, 05 Feb 2021 14:20:58 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Fri, 05 Feb 2021 15:19:25 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
