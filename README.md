@@ -12,7 +12,6 @@ I'm Vicente, and I am a developer from Spain. I like coding, listen to [music](h
 
 - 🎏 I plan to learn in the future:
   * MERN Stack.
-  * Python.
   * Go.
   * A lot more...
 
