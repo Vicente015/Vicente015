@@ -1589,8 +1589,8 @@
               14
             </div>
                     <div class="entry">
-              <span class="value">9</span>
-              <div class="bar" style="height: 23.684210526315788px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 13.157894736842104px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               15
             </div>
                     <div class="entry">
@@ -1660,8 +1660,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">5</span>
-                <div class="bar" style="height: 11.904761904761903px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">1</span>
+                <div class="bar" style="height: 2.380952380952381px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -2816,7 +2816,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amark/gun</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jun 08 2021</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2897,7 +2897,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 08 Jul 2021 15:32:07 (timezone Europe/Madrid) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 08 Jul 2021 16:24:44 (timezone Europe/Madrid) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
